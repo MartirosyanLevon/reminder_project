@@ -1,3 +1,4 @@
 beepy
 click
+libasound2-dev
 py-notifier
